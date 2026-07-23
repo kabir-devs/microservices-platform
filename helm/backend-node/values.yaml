@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: ghcr.io/kabir-devs/microservices-platform/backend-node
-  tag: "a202ae2"
+  tag: "2409f01"
   pullPolicy: IfNotPresent
 
 service:
