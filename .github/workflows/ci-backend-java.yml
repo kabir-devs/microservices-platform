@@ -8,7 +8,7 @@ on:
     paths: ["backend-java/**"]
 
 permissions:
-  contents: read
+  contents: write
   packages: write
 
 env:
