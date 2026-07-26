@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: ghcr.io/kabir-devs/microservices-platform/frontend
-  tag: "latest"
+  tag: "c0118fb"
   pullPolicy: IfNotPresent
 
 service:
