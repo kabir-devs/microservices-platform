@@ -1,16 +1,1 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: platform
-  labels:
-    name: platform
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: argocd
----
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: monitoring
+
